@@ -1,0 +1,34 @@
+﻿2019-03-13T13:31:47.8923198+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-03-13T13:31:47.8933193+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-03-13T13:31:47.8933193+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\george_serban\SpecFlow\SpecFlow\UnitTestProject\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-03-13T13:31:48.0633205+01:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-03-13T13:31:48.0633205+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\george_serban\SpecFlow\SpecFlow\UnitTestProject\bin\Debug\UnitTestProject.dll
+2019-03-13T13:31:48.0633205+01:00;VSTestExecutionThread;Info;Profile: 
+2019-03-13T13:31:56.1282480+01:00;Thread#18;Info;starting test run
+2019-03-13T13:31:56.1332768+01:00;Thread#18;Info;Discovering target: Default
+Test Suite Dump
+#0: Unnamed project/ - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-03-13T13:31:56.1642533+01:00;Thread#18;Info;test run finished
+2019-03-13T13:31:56.1642533+01:00;Thread#18;Info;publishing test results
+2019-03-13T13:31:56.1882878+01:00;Thread#18;Info;test results published
+2019-03-13T13:31:56.1882878+01:00;Thread#18;Info;generating reports
+2019-03-13T13:31:56.1932500+01:00;Thread#18;Info;creating 1 report(s)
+2019-03-13T13:31:56.1932500+01:00;Thread#18;Info;generate Report ReportTemplate.cshtml
+2019-03-13T13:31:57.7942657+01:00;Thread#18;Info;reports generated
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2019-03-13T13:31:57.7972739+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-03-13T13:31:57.7972739+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\george_serban\SpecFlow\SpecFlow\TestResults\Unnamed project__2019-03-13T133148.html'
+2019-03-13T13:31:57.8022496+01:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\george_serban\SpecFlow\SpecFlow\TestResults\Unnamed%20project__2019-03-13T133148.log

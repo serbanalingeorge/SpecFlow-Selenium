@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)specflow\2.4.1\build\SpecFlow.targets" Condition="Exists('$(NuGetPackageRoot)specflow\2.4.1\build\SpecFlow.targets')" />
+    <Import Project="$(NuGetPackageRoot)specrun.specflow.2-4-0\1.8.5\build\SpecRun.SpecFlow.2-4-0.targets" Condition="Exists('$(NuGetPackageRoot)specrun.specflow.2-4-0\1.8.5\build\SpecRun.SpecFlow.2-4-0.targets')" />
+    <Import Project="$(NuGetPackageRoot)selenium.firefox.webdriver\0.24.0\build\Selenium.Firefox.WebDriver.targets" Condition="Exists('$(NuGetPackageRoot)selenium.firefox.webdriver\0.24.0\build\Selenium.Firefox.WebDriver.targets')" />
+    <Import Project="$(NuGetPackageRoot)mstest.testadapter\1.4.0\build\net45\MSTest.TestAdapter.targets" Condition="Exists('$(NuGetPackageRoot)mstest.testadapter\1.4.0\build\net45\MSTest.TestAdapter.targets')" />
+  </ImportGroup>
+</Project>

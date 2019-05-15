@@ -1,0 +1,9 @@
+C:\Users\george_serban\SpecFlow\SpecFlow\Example\bin\Debug\Example.dll
+C:\Users\george_serban\SpecFlow\SpecFlow\Example\bin\Debug\Example.pdb
+C:\Users\george_serban\SpecFlow\SpecFlow\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\george_serban\SpecFlow\SpecFlow\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\george_serban\SpecFlow\SpecFlow\Example\obj\Debug\Example.dll
+C:\Users\george_serban\SpecFlow\SpecFlow\Example\obj\Debug\Example.pdb
+C:\Users\george_serban\SpecFlow\SpecFlow\Example\bin\Debug\WebDriver.dll
+C:\Users\george_serban\SpecFlow\SpecFlow\Example\bin\Debug\WebDriver.xml
+C:\Users\george_serban\SpecFlow\SpecFlow\Example\obj\Debug\Example.csproj.CopyComplete
